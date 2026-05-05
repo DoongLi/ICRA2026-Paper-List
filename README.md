@@ -1,4 +1,4 @@
-# ICRA 2025 Paper List
+# ICRA 2026 Paper List
 
 This repo contains a list of all the papers being presented at ICRA2025. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
 
