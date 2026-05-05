@@ -1,4 +1,14 @@
-# Paper List
+# ICRA 2025 Paper List
+
+This repo contains a list of all the papers being presented at ICRA2025. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
+
+All the data is sourced from the official temporary webpage, which can be found [here](https://ras.papercept.net/conferences/conferences/ICRA26/program/ICRA26_ProgramAtAGlanceWeb.html).
+
+You can access this [repo](https://github.com/DoongLi/ICRA2025-Paper-List) to get the ICRA 2025 paper list.
+
+Note: This list includes papers that were turned from journals to conference presentations.
+
+
 | Title | Authors | Session |
 | ----- | ------- | ------- |
 | Real-Time Sit-To-Stand Phase Classification with a Mobile Assistive Robot from Close Proximity Utilizing 3D Visual Skeleton Recognition | Mahdi, Anas;Dong, Zonghao;Lin, Jonathan Feng-Shun;Hu, Yue;Hirata, Yasuhisa;Mombaur, Katja | Interactive Session 1 |
