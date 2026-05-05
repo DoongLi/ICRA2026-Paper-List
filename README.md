@@ -448,29 +448,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | Perceived Intensity of Pneumatic Vibrotactile Stimuli: Effects of Pressure, Frequency, and Stiffness (I) | Kommuri, Krishna Dheeraj;van Beek, Femke;Kuling, Irene | Interactive Session 1 |
 | Test Paper - Please Ignore - Testing a Workflow | Misra, Pradeep | Interactive Session 1 |
 | Targetless LiDAR-Camera Calibration with Neural Gaussian Splatting | Jung, Haebeom;Kim, Namtae;Kim, Jungwoo;Park, Jaesik | Interactive Session 1 |
-| Vision-Guided Robotic Grinding with Deep Learning-Based Bead Segmentation and Digital Twin Verification | Kim, Seong Hyeon;Kim, Hyo-Young | Late Breaking Results 1 |
-| Learning Contact Tasks Skills Based on DMP and Affordance Templates | Lee, Hunjo;Yang, Gi-Hun | Late Breaking Results 1 |
-| Learning Traversability Cost Maps with Decomposed Uncertainties Via Continuous-State MEDIRL | Song, Gwanhyeong;Lee, Dongjae;Kim, Ayoung | Late Breaking Results 1 |
-| A Wire-Driven Robotic Hand with Mode-Switchable Planetary Transmission for Dynamic Manipulation | Choi, Jeongseok;Lee, Minsu;Shin, WooSeong;Seo, TaeWon | Late Breaking Results 1 |
-| Stable Worker Intention Recognition Via Transformer and CRF-Ontology Decoding for HumanRobot Collaboration | Park, Hwijin;Kwon, HyunBin;Lee, Hyundo;Park, Cheol Woo;Yi, Hak | Late Breaking Results 1 |
-| Agile Collision Avoidance for Deformable-Tethered Multi-Robot Systems Via Zone-Aware Hierarchical Learning and VLM-Guided Control | Zhou, Zeyu;Zhang, Jingwei;Zhi, Hui;Hao, Yun;Tang, Wei;Navarro-Alarcon, David | Late Breaking Results 1 |
-| Rapid Robot Manipulation Policy Learning Via Hierarchical Foundation-Model Prior Distillation | Dong, Qingwei;Zhang, Jiyuan;Wan, Guangxi;Liu, Ruikai;Zeng, Peng | Late Breaking Results 1 |
-| Uncertainty-Aware Stereo Grasp Point Selection for Deformable Linear Objects | Saccani, Cristina;Caporali, Alessio;Palli, Gianluca | Late Breaking Results 1 |
-| Learning What Matters: Task Tailored Dynamics Models through Differentiable MPC | Węgrzynowski, Jan;Kicki, Piotr;Czechmanowski, Grzegorz;Walas, Krzysztof, Tadeusz | Late Breaking Results 1 |
-| Intent Recognition in Gait Transition Using Muscle Volume Sensors with Deep Learning | Park, Geonwoo;Woo, MooJin;Oh, Jiwoo;Chei, Hyeon Chan;Oh, Keonyoung | Late Breaking Results 1 |
-| Suppressing Initial Force Overshoot Using Admittance Filter and ASMC under Contact Location Uncertainty | Oh, Sejik;Kim, Yi Gyeom;Jo, Hyojin;Park, Dogyun;Kwon, Nam Kyu | Late Breaking Results 1 |
-| Reinforcement Learning for Stair Locomotion of a Wheeled Bipedal Robot with Contact-Guided Behavior Cloning | Kim, Yi Gyeom;Oh, Sejik;Jo, Hyojin;Park, Dogyun;Kwon, Nam Kyu | Late Breaking Results 1 |
-| Learning from Demonstrations Over Riemannian Manifolds Using Neural ODEs | Cuervo Espinosa, Diana Gerlid;Anand, Mahathi;Schoellig, Angela P. | Late Breaking Results 1 |
-| Distributed AI for Robotics | Singh, Satyabhama;Wulfert, Lars;Woehrle, Hendrik | Late Breaking Results 1 |
-| Exploring History-Aware Online Actor-Critic for Smart Manufacturing Tasks in the RICAIP Testbed | Horelican, Tomas | Late Breaking Results 1 |
-| Development of a Testbed and Quantitative Evaluation Framework for Characterization of Robot Actuator Dynamics | Kim, Deokgyu;Kangwagye, Samuel;Heo, Young Jin;Oh, Sehoon;Lee, Chan | Late Breaking Results 1 |
-| ManiMorph: Object Representations in Robot Manipulators Morphology for Improving Multi-Task Manipulation Performance | Abdalla, Ali;Przystupa, Michael;Zu, Xinrui;Luck, Kevin Sebastian;Berseth, Glen | Late Breaking Results 1 |
-| Beyond Reactive Adaptation: Long-Horizon Memory for Autonomous Racing Via State Space Models | Czechmanowski, Grzegorz;Węgrzynowski, Jan;Kicki, Piotr;Walas, Krzysztof, Tadeusz | Late Breaking Results 1 |
-| Low-Dimensional Tactile Glove for Visuo-Tactile Robot Hand Control: A Preliminary Study | Baek, Gi-gwang;Kim, DongWook | Late Breaking Results 1 |
-| Towards Massively Parallel Motion Planning with Inverse Dynamics | Tsikelis, Ioannis;Mingo Hoffman, Enrico | Late Breaking Results 1 |
-| Toward Human Preference Optimization for Vision-Language-Action Models: A Pilot Study on the Limits of Imitation Learning | Lee, Tae-Won;Kim, DongWook | Late Breaking Results 1 |
-| Enhancing VLA Precision in Robotic Manipulation Via FiLM-Based Force/Torque-Vision Integration | Nam, Gunhee;Hong, Ayoung | Late Breaking Results 1 |
-| Trajectory Design Trade-Offs in a 1-DoF Transformable Wheel for Obstacle Climbing | Lee, Jaebaek;Kim, Youngsoo | Late Breaking Results 1 |
 | GRITS: A Spillage-Aware Guided Diffusion Policy for Robot Food Scooping Tasks | Tai, Yen-Ling;Yang, Yi-Ru;Yu, Kuan-Ting;Chao, Yu-Wei;Chen, Yi-Ting | Award Finalists 1 |
 | Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-Language Models | Li, Mingen;Yu, Houjian;Huang, Yixuan;Hong, Youngjin;Ye, Hantao;Choi, Changhyun | Award Finalists 1 |
 | FP3: A 3D Foundation Policy for Robotic Manipulation | Yang, Rujia;Chen, Geng;Wen, Chuan;Gao, Yang | Award Finalists 1 |
@@ -943,29 +920,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | SIT-LMPC: Safe Information-Theoretic Learning Model Predictive Control for Iterative Tasks | Zang, Zirui;Amine, Ahmad;Kokolakis, Nick-Marios;Nghiem, Truong Xuan;Rosolia, Ugo;Mangharam, Rahul | Interactive Session 2 |
 | Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies towards Visual Robustness | Mirjalili, Reihaneh;Jülg, Tobias Thomas;Walter, Florian;Burgard, Wolfram | Interactive Session 2 |
 | Tactile Object Recognition with Recurrent Neural Networks through a Perceptive Soft Gripper | Donato, Enrico;Pelliccia, David;Hosseinzadeh, Matin;Amiri, Mahmood;Falotico, Egidio | Interactive Session 2 |
-| Integrating Autonomy into Bioinspired Soft Robot  the Bionic Turtle Walker | Tauber, Falk;Ruppert, Sebastian;Speck, Thomas | Late Breaking Results 2 |
-| An Efficient Learning-Based Task Planning Approach Using a Bio-Inspired Action Context-Free Grammar for Bimanual Manipulation | David, Carmona;Yang, Jun;Yu, Haoyong | Late Breaking Results 2 |
-| Whole-Body Balance Control of Wheeled-Bipedal Robots for Perception-Less Terrain Adaptation | Lee, Young Hun;Ahn, Jeongdo;Park, Dongil | Late Breaking Results 2 |
-| GLaMP: A Grounded Language Model-Based Multi-Agent System for Long-Horizon Robotic Task Planning in Industrial Settings | Chen, Hongpeng;Navarro-Alarcon, David;Zheng, Pai | Late Breaking Results 2 |
-| Side-Scan Sonar SLAM Using Ping-Level Landmark Detection in Feature-Poor Seabed Environments | Im, Jinho;Hong, Seonghun | Late Breaking Results 2 |
-| Development of the Saemangeum Digital Test-Bed (K-URSim) for Unmanned Marine Vehicles | Lee, Yeongjun;Han, Jong-Boo;Kim, Sangsu;Kang, Hojun;Kim, Kihun | Late Breaking Results 2 |
-| Stereo-Based Vision and Tactile Sensing for Robust Dual-Arm Robotic Connector Assembly | Mirto, Michele;Caporali, Alessio;Pirozzi, Salvatore;Palli, Gianluca | Late Breaking Results 2 |
-| Embodied Stability in a Minimally-Actuated Soft Robot for Autonomous Exploration | Salem, Lior;Vichik, Adam;Gat, Amir;Or, Yizhar | Late Breaking Results 2 |
-| A Large Language Model-Based Mission Manager for Autonomous UAV Control | Cihlar, Milos | Late Breaking Results 2 |
-| Hierarchical Grid-Based Sensor Pose Extraction for Demonstration Dataset Generation | Lim, Doyu;Park, Chaewon;Han, Soohee | Late Breaking Results 2 |
-| Manipulator-Effort-Aware MPC for Body Motion Coordination of an Underwater Walking Robot under Ocean Current Disturbances | Koo, Bonhak;Jun, Bong Huan;Park, Daegil | Late Breaking Results 2 |
-| Optimal Path Planning for USV-AUV Docking under Various Marine Environmental Conditions | Park, Daegil;Lee, Seungyeon;Park, Junwoo;Kim, Hyungwoo;Jun, Bong Huan | Late Breaking Results 2 |
-| Experimental Validations of a Digital Twin Model for Underwater Tracked Vehicle | Han, Jong-Boo;Lee, Sangjin;Lee, Yeongjun;Park, Daegil;Yeu, Tae-Kyeong | Late Breaking Results 2 |
-| Development of the Saemangeum Digital Test-Bed (K-URSim) for Unmanned Underwater Vehicles | Lee, Yeongjun;Han, Jong-Boo;Kim, Sangsu;Kang, Hojun;Kim, Kihun | Late Breaking Results 2 |
-| Geometric Correction of Underwater Forward Looking Sonar-Based 3-D Reconstruction Via PS-Based Slope Pattern Interpretation Using AUV | Ham, Seungwon;Ku, Bonchul;Song, Young-woon;Kim, Jason;Jang, You hyun;Seol, Woojin;Yu, Son-Cheol | Late Breaking Results 2 |
-| Toward Multimodal Liquid-Level Estimation for Closed-Loop Robotic Pouring | Deng, Hongyu;Chen, He | Late Breaking Results 2 |
-| Active Perception for Deformable Linear Objects Stiffness Estimation | Dong, Chengxiao;Caporali, Alessio;Lan, Hongyu;Palli, Gianluca | Late Breaking Results 2 |
-| Perception of Social Robots As Communication Partners in Healthcare for Older Adults | Yamamoto, Hana;Mayer, Carlotta Julia;Raithel, Charlotte;Buchner, Theresa;Werner, Christian;Hirata, Yasuhisa;Eckstein, Monika;Mombaur, Katja | Late Breaking Results 2 |
-| Task Correlation and Edge-Cost Estimation for Robotic Task Sequencing Problem in Torus C-Space | Yonrith, Phayuth;Hong, Ayoung | Late Breaking Results 2 |
-| Disturbance-Adaptive Differentiable MPC for Underwater Structure Inspection Using Underwater Robot | Kim, Minjong;Ku, Bonchul;Kim, Dongsub;Song, Young-woon;Seol, Woojin;Jang, You hyun;Yu, Son-Cheol | Late Breaking Results 2 |
-| Why Cognitive Robotics Matters: Lessons from OntoAgent and LLM Deployment in HARMONIC for Safety-Critical Robot Teaming | Oruganti, Sanjay;Nirenburg, Sergei;McShane, Marjorie;English, Jesse;Roberts, Michael;Arndt, Christian;Parasuraman, Ramviyas;Sentis, Luis | Late Breaking Results 2 |
-| Design by Robot: Relocating Obstacles for Efficient Mobile Robot Navigation | Samarakoon Mudiyanselage, Bhagya Prasangi Samarakoon;Muthugala Arachchige, Viraj Jagathpriya Muthugala;Rishan Sachinthana, Wijenayaka Kankanamge;Elara, Mohan Rajesh | Late Breaking Results 2 |
-| GPT-PDDL: Towards Executable Robot Task Planning | Lee, Chang Sik;Cho, Hye-Kyung;You, Sujeong | Late Breaking Results 2 |
 | HEXAR: A Hierarchical Explainability Architecture for Robots | Love, Tamlin;Gebellí, Ferran;Pramanick, Pradip;Andriella, Antonio;Alenyà, Guillem;Garrell, Anaís;Ros, Raquel;Rossi, Silvia | Award Finalists 2 |
 | Uncertainty Comes for Free: Human-In-The-Loop Policies with Diffusion Models | He, Zhanpeng;Cao, Yifeng;Ciocarlie, Matei | Award Finalists 2 |
 | SA-VLM V2: Useful, Comprehensive, and Concise Guidance for Guide-Dog Robots Assisting the Visually Impaired | Yun, Woo-han;Shin, JaeHo;Seo, BeomSu;Kim, Jaehong;Han, ByungOk | Award Finalists 2 |
@@ -1439,29 +1393,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | Efficiently Learning Robust Torque-Based Locomotion through Reinforcement with Model-Based Supervision | Yan, Yashuai;Egle, Tobias;Ott, Christian;Lee, Dongheui | Interactive Session 3 |
 | Estimation of the Caged Object's Posture under Forces Using Stepwise Geometric Calculations | Yokomura, Ryota;Liu, Yutong;Fukui, Rui | Interactive Session 3 |
 | DexFruit: Dexterous Manipulation and Gaussian Splatting Inspection of Fruit | Swann, Aiden;Qiu, Alex;Strong, Matthew;Zhang, Angelina;Morstein, Samuel;Rayle, Kai;Kennedy, Monroe | Interactive Session 3 |
-| HBRB-BoW: A Retrained Bag-Of-Words Vocabulary for ORB-SLAM Via Hierarchical BRB-KMeans | Lee, Minjae;Choi, Sang-Min;Kim, Gun-Woo;Lee, Suwon | Late Breaking Results 3 |
-| Unified Neural Gaussian SLAM with Feature Splatting | Tang, Xuyang;Chu, Henry;Sun, Yuxiang | Late Breaking Results 3 |
-| Indirect Adaptive Predictor Preview Control with Unknown Time Varying Input Delay and Parameter | Kwon, HyunBin;Yi, Hak | Late Breaking Results 3 |
-| Vibration-Resilient LiDAR-Inertial Odometry with External Disturbance Compensation for Quadruped Robots | Hoang, Quoc Hung;Kim, Gon-Woo | Late Breaking Results 3 |
-| Motion-Robust Birds-Eye-View Mapping for Self-Balancing Exoskeletons Using RGB-D Sensing | Leisiazar, Sahar;Peykari, Behzad;Arzanpour, Siamak;Najafi, Farshid;Park, Edward J. | Late Breaking Results 3 |
-| Highly Flexible Task Planner for Robots in Dynamic Environments | Guzman-Merino, Miguel;Plönnigs, Jörn | Late Breaking Results 3 |
-| Hierarchical LLM-VLA-Controller Integration for Task Generalization | Choi, Inhyuk;Lee, Sangmoon | Late Breaking Results 3 |
-| BIM-Informed Visual SLAM for Construction Monitoring | Bikandi-Noya, Asier;Fernandez-Cortizas, Miguel;Shaheer, Muhammad;Tourani, Ali;Voos, Holger;Sanchez-Lopez, Jose Luis | Late Breaking Results 3 |
-| Innovative RailAir Multi-Robot System for Intelligent and Repeatable Bridge Visual Inspection Tasks | Jose, Nahuel;D'Imperio, Mariapaola;Mancini, Adriano;Scaro, Agustina;Marchello, Gabriele;Galdelli, Alessandro;Frontoni, Emanuele;Cannella, Ferdinando | Late Breaking Results 3 |
-| A MARL Approach for Connectivity-Aware Search and Rescue in Urban Environments | Meseguer Valenzuela, Andrés | Late Breaking Results 3 |
-| A Multi-Inlet Extrusion System for Closed-Loop Spatial Profile Control in Large-Format Additive Manufacturing | Coronado Preciado, Angelica;Parrott, Brian;Feron, Eric | Late Breaking Results 3 |
-| Online Jacobian Estimation and Tracking Control of a Two-Section Tendon-Driven Continuum Robot | Kuncara, Ivan Adi;Hong, Ayoung | Late Breaking Results 3 |
-| E2O-SLAM: A Hierarchical Visual SLAM Framework Using Edge-Based and Object-Level Representations | Choi, Eunseon;Han, Soohee | Late Breaking Results 3 |
-| Local Linearized Cosserat Rod Model for Contact Force Estimation in Flexible Medical Instruments and Continuum Robots | Eyberg, Christoph;Horsch, Johannes;Bauernhansl, Thomas;Langejürgen, Jens | Late Breaking Results 3 |
-| Gaussian Process-Based Gait Optimization of a Cable-Driven Soft Quadruped Robot | Choi, Jeongil;Hong, Ayoung | Late Breaking Results 3 |
-| Region-Selective Synthetic Data Injection for Data-Driven Magnetic Capsule Pose Estimation | Darwin, Stevanus;Hong, Ayoung | Late Breaking Results 3 |
-| Continuous Real-Time Inductive Tracking of Magnetic Microagents for Closed-Loop Control | Grossrieder, Tim;Forbrigger, Cameron;Park, Myungjin;Christiansen, Michael;Schuerle, Simone | Late Breaking Results 3 |
-| Class-Agnostic Robotic Gaze Control Via Fast Normalized Cut | Lucny, Andrej;Zigo, Branislav;Farka, Igor | Late Breaking Results 3 |
-| TeNet: Text-To-Network for Compact Policy Synthesis | Bighashdel, Ariyan;Luck, Kevin Sebastian | Late Breaking Results 3 |
-| Over-Actuation in Soft Robots: Towards Active Variable Stiffness & Viscoelasticity | Vazquez-Garcia, Carlos Ernesto;Olguín Díaz, Ernesto;Parra-Vega, Vicente | Late Breaking Results 3 |
-| From Design to Realization: A Validated Pipeline for Magnetic Soft Robot Fabrication and Actuation | Abu-Shaera, Rawaan;Palanichamy, Veerash;Clancy, Kaitlyn;Onaizah, Onaizah | Late Breaking Results 3 |
-| Robust Robotic Task Planning Via Immutable Subgoals | Lim, Chulyong;Baek, Jaewon;Han, Junhee;Bae, WooYeol;Nam, Woochul | Late Breaking Results 3 |
-| Hybrid Agentic AI-FSM Framework for Instruction-Based Industrial Manipulation Tasks | Joo, Sungmoon;Kim, Ikjune | Late Breaking Results 3 |
 | Dexora: Open-Source VLA for High-DoF Bimanual Dexterity | Zhang, Zongzheng;Pang, Jingrui;Yang, Zhuo;Li, Kun;Liao, Minwen;Zhang, Saining;Chi, Guoxuan;Guo, Jinbang;Gao, Huan-ang;Shi, Modi;Ge, Dongyun;Mu, Yao;Gu, Jiayuan;Chen, Rui;Dong, Hao;Xu, Huazhe;Yi, Li;Zhu, Yixin;Zhao, Hang;Wang, Pengwei;Zhang, Shanghang;Yao, Guocai;Chen, Jianyu;Li, Hongyang;Zhao, Hao | Award Finalists 3 |
 | Robotic Dexterous Manipulation Via Anisotropic Friction Modulation Using Passive Rollers | Fisk, Ethan;Lee, Taeyoon;Yuan, Shenli | Award Finalists 3 |
 | Bi-Adapt: Few-Shot Bimanual Adaptation for Novel Categories of 3D Objects Via Semantic Correspondence | Zhou, Jinxian;Wu, Ruihai;Liu, Yiwei;Yu, Checheng;Zhou, Xunzhe;Hou, Yiwen;Zhong, Licheng;Shao, Lin | Award Finalists 3 |
@@ -1936,28 +1867,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | Time-Series Data-Driven Three Dimensional Shape Control of Deformable Linear Objects Using a Dual-Arm Robot with Dynamic Model Updating | Choi, Jiyoung;Gebrezgiher, Micheale Haileslassie;Lee, Donggun;Hong, Ayoung | Interactive Session 4 |
 | Motion Pattern Analysis of a Rolling Locomotion Robot Featuring Dual Rimless Wheels and Elastic Connectors | Sedoguchi, Taiki;Asano, Fumihiko | Interactive Session 4 |
 | Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation | Konstantinidis, Fabian;Sackmann, Moritz;Hofmann, Ulrich Franz;Stiller, Christoph | Interactive Session 4 |
-| Accurate Joint Torque Estimation in Lower-Limb Exoskeletons Via Hybrid Modeling and Learning | Yazdankhoo, Behnam;Mousavi, Milad;Faridi Rad, Nafise;Mansouri, Saeed;Peykari, Behzad;Arzanpour, Siamak;Najafi, Farshid;Park, Edward J. | Late Breaking Results 4 |
-| Self-Adaptive Autonomous Navigation Based on Reservoir Computing in Snowy Environments | Li, Fangzheng;Ji, Yonghoon | Late Breaking Results 4 |
-| Friction-Aware Actuator Modeling for Accurate Torque Estimation Using External Sensors | Park, Jiman;Lee, Hyunyong;Kang, Hansol;Nam, SeongWon;Son, Yeongwoo;Yi, Bumsu;Oh, Jaeyoung;Choi, Hyouk Ryeol | Late Breaking Results 4 |
-| A Digital Twin-Driven Intelligent Inspection Robotic System for Elevator Buffer in Confined Hazardous Space | Hu, Zhiyong | Late Breaking Results 4 |
-| Uncertainty-Aware BIT*: Collision-Free Path Planning for Maritime Autonomous Surface Ships under Target Ship Position Uncertainty | Kim, Sojin;Park, Jeonghong | Late Breaking Results 4 |
-| Wrench-Feasible Whole-Body Planning Via Time-Layered DAG Optimization for Omnidirectional Aerial Manipulation | Park, Daum;Pak, Bohyeong;Kim, Sanghyun | Late Breaking Results 4 |
-| Beyond Domain Randomization: Safety Certificates for Reinforcement Learning | Stocco, Paula;Micheli, Francesco;Schmid, Niklas;Lygeros, John;Balta, Efe | Late Breaking Results 4 |
-| An Underactuated Robotic Gripper with Flowability and Variable Stiffness for Food Bin-Picking | Xue, Yitong;Wang, Zhongkui | Late Breaking Results 4 |
-| Robust Localization in Large-Scale Symmetric Environments through Dynamic Topological Mapping | Flor Rodríguez-Rabadán, Rafael;Lafuente-Arroyo, Sergio;Maldonado-Bascón, Saturnino;Gutiérrez Álvarez, Carlos;López-Sastre, Roberto J. | Late Breaking Results 4 |
-| Ultra-Low-Impedance Robotic Gripper for High-Bandwidth and Transparent Physical Interaction | Lee, Joon;Choi, Ari;Jeong, Seokhwan | Late Breaking Results 4 |
-| Towards Human-Like Table Tennis Serving: Preliminary Exploration with Simplified Serving Motion Using an Industrial Robotic Manipulator in NVIDIA Isaac Sim | Chiou, Po-Chuan;Hong, Jing-Chen | Late Breaking Results 4 |
-| Nnodely - Neuralize Your Model | Rosati Papini, Gastone Pietro;Plebe, Alice;Sharifzadeh, Mojtaba;Piazza, Mattia;Taddei, Sebastiano;Scialla, Giovanni;Baroni, Francesco;De Martini, Davide;La Scala, Giovanni Maria Francesco;Defrancesco, Gioele;Faccini, Filippo | Late Breaking Results 4 |
-| Towards Dexterous Agri-Food Manipulation: Topology-Dependent Interaction Patterns in a Reconfigurable Multifingered Gripper | Lan, Hongyu;Caporali, Alessio;Dong, Chengxiao;Palli, Gianluca;Melchiorri, Claudio | Late Breaking Results 4 |
-| UniOMA: Unified Optimal-Transport Multi-ModalStructural Alignment for Robot Perception | Zu, Xinrui;Luck, Kevin Sebastian;Yu, Shujian | Late Breaking Results 4 |
-| A 2-DoF Ankle Rehabilitation Platform Based on an Inclined Dual-Cylinder Mechanism | Kim, Donggeon;Kiefer, Kira;Veits, Luisa;Ulbl, Laura;Morgado-Vega, Necolle;Kim, Tae-Hyoung;Kim, Yeongmi | Late Breaking Results 4 |
-| Sat-RoMa: Cross-Scale Dense Matching for Multi-Temporal  UAV-To-Orthophoto Registration | Krupka, Maciej;Węgrzynowski, Jan;Skrzypczynski, Piotr | Late Breaking Results 4 |
-| Curvature Adaptable Robotic End-Effectors | Rincon, Jhonatan;Osorio, Juan;Kim, Wonhee;Alexander, Paul;Hwang, Dooil;Arrieta, Andres | Late Breaking Results 4 |
-| Semantic 3D Skeleton Extraction for Precision Agricultural Robotics : Preliminary Result | Yang, Dayeon;Ju, Chanyoung | Late Breaking Results 4 |
-| Gaussian Splatting and Point Cloud-Based Workspace Prediction for Collision-Free Trajectory Planning in Collaborative Robots | Seo, Jungho;Kim, DongWook | Late Breaking Results 4 |
-| Three-Dimensional Needle Tip Estimation from Multi-View X-Ray Images for Interventional Pain Procedures | Han, Seunghui;Hong, Ayoung | Late Breaking Results 4 |
-| The RoboAtlas: Mapping the Global Robotics Landscape | Zhang, Jiacheng;Sun, Shuo;Charisi, Vicky;Wang, Xinru;Xinyue, Chen;Ma, Zhexuan;Prakash, Alok;Malone, Thomas | Late Breaking Results 4 |
-| Reward-Free Continual Adaptation for Resilient Space Robots | Orsula, Andrej;Olivares-Mendez, Miguel A.;Martinez, Carol | Late Breaking Results 4 |
 | Dynamics Modeling of a Multi-UAV Slung Load System Using a Discrete-Link Cable Approach | Merton, Harvey;Hunter, Ian | Award Finalists 4 |
 | A Distributed Gaussian Process Model for Multi-Robot Mapping | Nabarro, Seth;van der Wilk, Mark;Davison, Andrew J | Award Finalists 4 |
 | Optimal Multi-Robot Planning for Simultaneous Area and Line Coverage | Zheng, Tianyuan;Yu, Kaiyan;Gao, Mingyang;Yi, Jingang | Award Finalists 4 |
@@ -2428,28 +2337,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | Data-Driven Anomaly Detection in Robots Using Matrix Chernoff Bounds | Dubey, Richa;Tripathy, Niladri Sekhar;Shah, Suril Vijaykumar | Interactive Session 5 |
 | Lunar Rover Cargo Transport: Mission Concept and Field Test (I) | Krawciw, Alec;Olmedo, Nicolas Alejandro;Rehmatullah, Faizan;Desjardins-Goulet, Maxime;Toupin, Pascal;Barfoot, Timothy | Interactive Session 5 |
 | A Taxonomy for Evaluating Generalist Robot Manipulation Policies | Gao, Jensen;Belkhale, Suneel;Dasari, Sudeep;Balakrishna, Ashwin;Shah, Dhruv;Sadigh, Dorsa | Interactive Session 5 |
-| Design and Optimization of a Tensioner-Driven Compliant Pulley Mechanism for Supermicrosurgical Robot End-Effectors | Kim, Min Chul;Lee, Young Min;Ihn, Yong Seok | Late Breaking Results 5 |
-| Structural Interlocking-Based Weaving Gripper for Enhanced Grasping Performance | Jun, Yuvin;Kim, Daehyun;Jeong, Seokhwan;Bae, Joonbum;Song, Kahye | Late Breaking Results 5 |
-| Real-Time Seam Tracking for Robotic Welding Via Registration-Based Deformation Estimation | Balajepalli, Surag;Baskaran, Amrish;Shounak, Naik;Eubel, Christopher;Meyarian, Abolfazl;Dai, Andong;Rajendran, Pradeep;Yamane, Katsu;Alex, Trazkovich | Late Breaking Results 5 |
-| Knowledge-Based Locomotion Policy for Quadruped Robots under Incomplete Terrain Observation | Kim, Taehyeong;Lee, Sangmoon | Late Breaking Results 5 |
-| VS-Graphs: Environment-Aware 3D Scene Graphs for Visual SLAM | Tourani, Ali;Ejaz, Saad;Fernandez-Cortizas, Miguel;Sanchez-Lopez, Jose Luis;Voos, Holger | Late Breaking Results 5 |
-| From Simulation to Deployment: Curriculum-Based Domain Adaptation for Semantic Segmentation in Autonomous Forklifts | Schützenhöfer, Christof;Rechberger, Patrick;Ulz, Thomas;Steger, Christian | Late Breaking Results 5 |
-| An Electrostatic Linear Film Actuator with Passive Phase Switching | Kim, Junsoo;Sánchez, Claudia;Byeon, Seongju;Monje, Concepción A.;Han, Amy Kyungwon;Shea, Herbert | Late Breaking Results 5 |
-| Development of a Variable Stiffness High Resolution Tension Sensor for Tendon-Driven Robot Hands | Pyo, Ginwoo;Lee, Chunghyeon;Jeong, Seokhwan | Late Breaking Results 5 |
-| Robotic Rendering of Oriental Ink Paintings with Spatial Awareness | Hu, Shaojun;Yan, Zhiqi;Liu, Yuhao;Jin, Hao;Lian, Minghui;Zhang, Zhiyi | Late Breaking Results 5 |
-| Thin-Film Programmable Robotic Damper Enabled by a Stick-Slip-Free Electrostatic Clutch | Ma, Jihyeong;Nam, Jongseok;Lee, Nak Hyeong;Kyung, Ki-Uk | Late Breaking Results 5 |
-| Experimental Validation of a MotorSMA Hybrid Actuation for Lightweight Wearable Robot | Bak, Jeongae;Choi, Kyungjun;Jung, Hyunmok;Seo, Hyunuk;Kim, Daehyun | Late Breaking Results 5 |
-| ROOM-3D: Real-Time Unsupervised Online 3D Room Segmentation | Flor Rodríguez-Rabadán, Rafael;Gutiérrez Álvarez, Carlos;Bañuls-González, Alexis;Lafuente-Arroyo, Sergio;Maldonado-Bascón, Saturnino;López-Sastre, Roberto J. | Late Breaking Results 5 |
-| A New Decoupling Method for Cable-Driven Joints Based on an Anti-Parallelogram Mechanism | Oh, Seungcheol;Lim, Seungbum;Suh, Jungwook | Late Breaking Results 5 |
-| Knowledge Synthesis in Dynamic Human-Swarm Interactions Using LLMs | Ballo, Boubacar;Yihunie, Absera;Schwarzenbach, Lilly;Salam, Hanan;Ferrante, Eliseo | Late Breaking Results 5 |
-| Grasping Point Estimation for EA Suction Cup Grippers on Curved Objects | Catalano, Angelo;De Carolis, Simone;Vitucci, Gennaro;Carbone, Giuseppe;Dotoli, Mariagrazia;Cacucciolo, Vito | Late Breaking Results 5 |
-| Optimal Motion Planning for Object Picking in Industrial Contexts with Optimal Control | Dirckx, Dries;Swevers, Jan;Decre, Wilm | Late Breaking Results 5 |
-| Intelligent Mechanical Characterization of Date Fruits for Automated Harvesting Grippers | Shami, Shahd;Wali, Obadah;Feron, Eric;Park, Shinkyu;Alam, Syed Muhammad | Late Breaking Results 5 |
-| Risk-Aware Control of Tendon-Driven Continuum Robots Via CVaR-MPPI with Residual Learning for Hysteresis Compensation : A Pilot Study | Lee, Dongjun;Kim, DongWook | Late Breaking Results 5 |
-| Modelling and Digital Twin Framework for Highly Compliant Soft Robotic Systems | Arbatani, Siamak;Kovecses, Jozsef | Late Breaking Results 5 |
-| Design and Development of a Spiral Chain Actuator | Subedi, Rakshya;Gourdet, Shia;Harris, Leah;Bae, Andrew | Late Breaking Results 5 |
-| A Soft-Rigid Tendon-Driven Continuum Robot with Multi-Curvature Actuated by a Single Set of Tendons | Qiu, Liuming;Labazanova, Luiza;Navarro-Alarcon, David;Zhang, Dan | Late Breaking Results 5 |
-| Design and Optimization of a Tensioner-Driven Compliant Pulley Mechanism for Supermicrosurgical Robot End-Effectors | Kim, Min Chul;Lee, Young Min;Ihn, Yong Seok | Late Breaking Results 5 |
 | Progress Constraints for Reinforcement Learning in Behavior Trees | Rietz, Finn;Kartaev, Mart;Ogren, Petter;Stork, Johannes A. | Planning |
 | Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning | Kawabe, Tomoya;Takano, Rin | Planning |
 | LoGoPlanner: Localization Grounded Navigation Policy with Metric-Aware Visual Geometry | Peng, Jiaqi;Cai, Wenzhe;Yang, Yuqiang;Wang, Tai;Shen, Yuan;Pang, Jiangmiao | Planning |
@@ -2918,28 +2805,6 @@ Note: Under the Session column, 'Interactive Session' refers to the Poster paper
 | Hybrid Soft-Rigid Elbow Exosuit: Theory, Mechatronic Design, and Experimental Assessment | KhalilianMotamed Bonab, Ali;Camardella, Cristian;Frisoli, Antonio;Chiaradia, Domenico | Interactive Session 6 |
 | Leveraging Vision-Language Models for Open-Vocabulary Instance Segmentation and Tracking | Pätzold, Bastian;Nogga, Jan;Behnke, Sven | Interactive Session 6 |
 | Flip Stunts on Bicycle Robots Using Iterative Motion Imitation | Kim, Jeonghwan;Fahmi, Shamel;Rho, Seungeun;Ha, Sehoon;Nelson, Gabriel | Interactive Session 6 |
-| A Display-Based Testbed for Bridging the Gap between Drone Simulation and Real-World Testing | Cai, Kai;Hara, Renma | Late Breaking Results 6 |
-| Real-Time 3D Needle-To-Retina Pose Sensing Using Triple OCT Fibers for Tremor-Compensated Subretinal Injection | Cho, Gichan;Im, Jintaek;Song, Cheol | Late Breaking Results 6 |
-| Uncertainty-Guided Proactive Adaptation for Visual-Inertial SLAM | Khan, Ehsan Ullah;Kim, Gon-Woo | Late Breaking Results 6 |
-| A MATLAB/Simulink-Based Sim2Real Control Framework for the Unitree G1 Using ROS 2 and MuJoCo | Trochez, Leffer;Quijano, Nicanor;Lopez-Jimenez, Jorge;Rodriguez Herrera, Carlos Francisco | Late Breaking Results 6 |
-| Lateral Reciprocal Collision Avoidance: A Probabilistic Social-Norm-Inspired Strategy for Deadlock-Free Multi-Robot Navigation | Lu, Siyi;Ruan, Sipu | Late Breaking Results 6 |
-| State-Space Time Surfaces for Event-Based Zero-Shot Robotic Grasping and Scene Reconstruction | Gong, Gu;Navarro-Alarcon, David | Late Breaking Results 6 |
-| Time-Division Multimodal Tactile Perception for Physical AI and Robotic Hands | Kim, Dohyung;Kim, Kyun Kyu;Bang, Junhyuk;Ko, Seung Hwan | Late Breaking Results 6 |
-| Low-Latency VR Telepresence for Remote Inspection in Fence-Free Collaborative Manufacturing | Svediroh, Stanislav | Late Breaking Results 6 |
-| Cascading Velocity Modulation for Multi-Agent Path Finding Execution | Park, SeungHyun;Shim, Jae Hong;Eoh, Gyuho | Late Breaking Results 6 |
-| Diffusion Policy for Robot-Assisted Dressing with Moving Human Arms | Sun, Haoxiang;Navarro-Alarcon, David | Late Breaking Results 6 |
-| Robust Unknown Object Detection and Tracking for Vision-Language-Action Models on Edge Devices | Joo, Subin;Jeung, Deokgi | Late Breaking Results 6 |
-| Heterogeneous Skill Learning for Asynchronous Multi-Robot Relay Pushing in Complex Environments | Zhi, Hui;Navarro-Alarcon, David | Late Breaking Results 6 |
-| Enhancing Null Space Exploitation within TDPA through Online Optimization Based on Maximum Constraints Capabilities | Celli, Camilla;Filippeschi, Alessandro;Porcini, Francesco;Frisoli, Antonio | Late Breaking Results 6 |
-| Inverse Reachability Map Guided Motion Planning of Mobile Manipulator | Choi, JungHyun;Lee, Taegyeom;Hwang, Myun Joong | Late Breaking Results 6 |
-| Mitigating Dissipative Artifacts in Long-Delay Bilateral Teleoperation through Optimal Prioritized Dissipation under Actuator Constraints | Celli, Camilla;Filippeschi, Alessandro;Porcini, Francesco;Frisoli, Antonio | Late Breaking Results 6 |
-| High-Stiffness Capacitive Torque Sensor Based on a Hybrid Scott-Russell and Parallelogram Mechanism | Sim, Jae Yoon;Lee, Seung Yeon;Seok, Dong-Yeop;Kim, Yong Bum;Choi, Hyouk Ryeol | Late Breaking Results 6 |
-| Compact Four-Degree-Of-Freedom Fingertip Feedback Device with Large Range of Motion | Byeon, Seongju;Kwon, Jayhyun;Han, Amy Kyungwon | Late Breaking Results 6 |
-| From DMs to Drones: Weaponizing Discord As a Covert Command-And-Control RAT for UAV Hijacking | Nhlabatsi, Armstrong;Sleiman, Hadi Hassan | Late Breaking Results 6 |
-| Cable-Driven Parallel Robot-Based Needle Steering for Imaging-Compatible Interventional Procedures | Son, Seongho;Hong, Ayoung | Late Breaking Results 6 |
-| Rapidly Deployable Nasal Surgery Tools Using Magnetic Soft Continuum Robots | Smith, Griffin;Gleason, Colton;Khalife, Sarah;van der Woerd, Benjamin;Onaizah, Onaizah | Late Breaking Results 6 |
-| Passive Torsional Compliance for Dynamic Stability Improvement of a Curved-Spoke Tri-Wheel | Jeong, Sunbeom;Kim, Youngsoo | Late Breaking Results 6 |
-| A Multifunctional Capsule and Magnetic Navigation Platform for Controlled Actuation and Task Execution in GI Environments | Abu-Shaera, Razan;Gupta, Shivam;Palanichamy, Veerash;Onaizah, Onaizah | Late Breaking Results 6 |
 | Human-Centered Development of Guide Dog Robots: Quiet and Stable Locomotion Control | Yu, Shangqun;Hwang, Hochul;Dang, Trung;Biswas, Joydeep;Giudice, Nicholas;Lee, Sunghoon Ivan;Kim, Donghyun | Human-Robot Interaction |
 | A Cyclic Adaptation-Generalization Framework with Uncertainty-Guided Self-Paced Learning for Long-Term Brain-Machine Interfaces | Wei, Jiyu;Hong, Di;Zhang, Zhanjie;Rong, Dazhong;He, Qinming;Wang, Yueming | Human-Robot Interaction |
 | Cooperation or Collaboration? on a Human-Inspired Impedance Strategy in a Human-Robot Co-Manipulation Task | Vianello, Lorenzo;Gomes, Waldez;Aubry, Alexis;Maurice, Pauline;Ivaldi, Serena | Human-Robot Interaction |
