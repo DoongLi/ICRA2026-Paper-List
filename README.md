@@ -6,7 +6,7 @@ All the data is sourced from the official temporary webpage, which can be found 
 
 You can access this [repo](https://github.com/DoongLi/ICRA2025-Paper-List) to get the ICRA 2025 paper list.
 
-Note: This list includes papers that were turned from journals to conference presentations.
+Note: Under the Session column, 'Interactive Session' refers to the Poster papers. Papers listed under specific technical categories (e.g., 'Human-Robot Interaction, Control and Optimization') are designated for Oral Presentations. This list covers Late-Breaking Papers as well.
 
 
 | Title | Authors | Session |
